@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ajn7
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Golang , Django and React Native
+- 🌱 I’m currently learning Flutter,Golang , Django and React Native
 
 
 <!---
